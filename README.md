@@ -1,2 +1,2 @@
-# webpack_study
-webpack study
+# dianping-webapp
+dianping-webapp
